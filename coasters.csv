@@ -1,0 +1,409 @@
+Name,Park,City,State,Country,Type,Construction,Height,Speed,Length,Inversions,Numinversions,Duration,GForce,Opened,Region
+Batman The Ride,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,32.004,81,822.96,Yes,5,120,4,1994,North America
+Big Thunder Mountain Railroad,Disneyland,Anaheim,CA,US,S,Steel,,45.36,814.121,No,0,,,1979,North America
+Boomerang,Knott's Berry Farm,Buena Park,CA,US,S,Steel,35.5092,76.14,284.988,Yes,3,108,5.2,1990,North America
+Boomerang Coast to Coaster,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,35.5092,76.14,284.988,Yes,3,168,6.2,1998,North America
+California Screamin',Disney's California Adventure,Anaheim,CA,US,S,Steel,,89.1,1850.75,Yes,1,156,,2001,North America
+Canyon Blaster,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,,,,No,0,,,1999,North America
+Coastersaurus,Legoland California,Carlsbad,CA,US,S,Steel,5.4864,32.4,149.962,No,0,,,2004,North America
+Cobra,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,7.9248,35.64,359.969,No,0,,,2000,North America
+Colossus,Six Flags Magic Mountain,Valencia,CA,US,W,Wood,38.1,100.44,1318.26,No,0,150,3.2,1978,North America
+D�j� Vu,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,58.2168,105.3,366.979,Yes,3,92,4.5,2001,North America
+Demon,California's Great America,Santa Clara,CA,US,S,Steel,31.0896,81,649.224,Yes,4,105,,1976,North America
+Dragon,Legoland California,Carlsbad,CA,US,S,Steel,,,,No,0,,,1999,North America
+Dragon,Traintown,Sonoma,CA,US,S,Steel,,,,No,0,,,2001,North America
+Flight Deck,California's Great America,Santa Clara,CA,US,S,Steel,31.0896,81,688.848,Yes,3,146,,1993,North America
+Flying Dragon,Funderland Amusement Park,Sacramento,CA,US,S,Steel,,,,No,0,,,1990,North America
+Flying Dragon Coaster,Pixieland Amusement Park,Concord,CA,US,S,Steel,,,,No,0,,,1995,North America
+Freeway Coaster,Adventure City,Anaheim,CA,US,S,Steel,,,,No,0,,,1994,North America
+Gadget's Go Coaster,Disneyland,Anaheim,CA,US,S,Steel,8.2296,34.02,206.959,No,0,44,,1993,North America
+GhostRider,Knott's Berry Farm,Buena Park,CA,US,W,Wood,35.9664,90.72,1381.66,No,0,160,3.1,1998,North America
+Giant Dipper,Belmont Park,San Diego,CA,US,W,Wood,22.2504,89.1,792.48,No,0,,,1925,North America
+Giant Dipper,Santa Cruz Beach Boardwalk,Santa Cruz,CA,US,W,Wood,21.336,89.1,804.672,No,0,112,,1924,North America
+Go-Gator,Kiwanis Kiddieland,Merced,CA,US,S,Steel,,,,No,0,,,2008,North America
+Gold Rusher,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,21.336,56.7,789.432,No,0,150,,1971,North America
+Goliath,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,71.628,137.7,1371.6,No,0,180,,2000,North America
+Grizzly,California's Great America,Santa Clara,CA,US,W,Wood,27.7368,89.1,990.6,No,0,160,,1986,North America
+Hurricane,Santa Cruz Beach Boardwalk,Santa Cruz,CA,US,S,Steel,,,,No,0,,,1992,North America
+Incredible Express,John's Incredible Pizza Company,Roseville,CA,US,S,Steel,,,12.192,No,0,,,2007,North America
+Invertigo,California's Great America,Santa Clara,CA,US,S,Steel,39.9288,81,308.762,Yes,3,90,5,1998,North America
+Jaguar!,Knott's Berry Farm,Buena Park,CA,US,S,Steel,19.812,56.7,793.09,No,0,120,,1995,North America
+Journey to Atlantis,SeaWorld San Diego,San Diego,CA,US,S,Steel,28.956,68.04,,No,0,300,3,2004,North America
+Kong,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,33.2232,79.38,688.848,Yes,5,96,,1998,North America
+Little Dipper,Castle Amusement Park,Riverside,CA,US,S,Steel,,,,No,0,,,,North America
+Little Dipper Coaster,Scandia Amusement Park,Ontario,CA,US,S,Steel,,,,No,0,,,,North America
+Matterhorn Bobsleds,Disneyland,Anaheim,CA,US,S,Steel,24.384,,,No,0,,,1959,North America
+Medusa,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,45.72,105.3,1200,Yes,7,195,4.5,2000,North America
+Merlin's Revenge,Castle Amusement Park,Riverside,CA,US,S,Steel,8.2296,34.02,206.959,No,0,44,,2001,North America
+Montezooma's Revenge,Knott's Berry Farm,Buena Park,CA,US,S,Steel,45.1104,89.1,243.84,Yes,1,36,,1978,North America
+Mulholland Madness,Disney's California Adventure,Anaheim,CA,US,S,Steel,,43.74,,No,0,,,2001,North America
+Ninja,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,18.288,89.1,822.96,No,0,90,,1988,North America
+Percy's Railway,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,3.048,16.2,106.68,No,0,,,1971,North America
+Pony Express,Knott's Berry Farm,Buena Park,CA,US,S,Steel,13.4112,61.56,396.24,No,0,,,2008,North America
+Psycho Mouse,California's Great America,Santa Clara,CA,US,S,Steel,,,383.134,No,0,,,2001,North America
+Quicksilver Express,Gilroy Gardens Family Theme Park,Gilroy,CA,US,S,Steel,11.5824,51.84,651.967,No,0,,,2001,North America
+Revenge of the Mummy,Universal Studios Hollywood,Universal City,CA,US,S,Steel,,64.8,548.64,No,0,120,,2004,North America
+Revolution,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,34.4424,89.1,1053.69,Yes,1,132,4.9,1976,North America
+Riddler's Revenge,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,47.5488,105.3,1331.98,Yes,6,180,4.2,1998,North America
+Roadrunner Express,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,3.9624,,79.8576,No,0,,,1999,North America
+Roar,Six Flags Discovery Kingdom,Vallejo,CA,US,W,Wood,28.6512,81,1003.1,No,0,,,1999,North America
+Roller Coaster,Fun Town at Micke Grove,Lodi,CA,US,S,Steel,,,,No,0,,,,North America
+Roller Coaster,Rotary Playland,Fresno,CA,US,S,Steel,,,,No,0,,,2002,North America
+Roller Coaster,Blackbeard's Family Entertainment Center,Fresno,CA,US,S,Steel,,,,No,0,,,,North America
+Rolling Thunder,Tahoe Amusement Park,South Lake Tahoe,CA,US,S,Steel,,,,No,0,,,,North America
+Runaway Reptar,California's Great America,Santa Clara,CA,US,S,Steel,,,396.24,No,0,132,,1987,North America
+Santa Monica West Coaster,Pacific Park,Santa Monica,CA,US,S,Steel,16.764,,396.24,No,0,,,1996,North America
+Scream!,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,45.72,102.06,1214.63,Yes,7,180,,2003,North America
+Screamer,Scandia Amusement Park,Ontario,CA,US,S,Steel,27.432,81,792.48,No,0,116,,1995,North America
+Screamin' Demon,Castle Amusement Park,Riverside,CA,US,S,Steel,9.7536,,,No,0,,2.5,2008,North America
+Sea Serpent,Santa Cruz Beach Boardwalk,Santa Cruz,CA,US,S,Steel,,,,No,0,,,2000,North America
+Sierra Sidewinder,Knott's Berry Farm,Buena Park,CA,US,S,Steel,18.8976,59.94,429.768,No,0,,3.3,2007,North America
+Silver Bullet,Knott's Berry Farm,Buena Park,CA,US,S,Steel,44.5008,89.1,952.5,Yes,6,150,,2004,North America
+Space Mountain,Disneyland,Anaheim,CA,US,S,Steel,,,,No,0,,,2005,North America
+Superman The Escape,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,126.492,162,376.428,No,0,28,4.5,1997,North America
+Tatsu,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,51.816,100.44,1097.89,Yes,4,,,2006,North America
+Taxi Jam,California's Great America,Santa Clara,CA,US,S,Steel,,,,No,0,,,1999,North America
+Technic Coaster,Legoland California,Carlsbad,CA,US,S,Steel,15.5448,56.7,399.898,No,0,,,2001,North America
+Terminator Salvation: The Coaster,Six Flags Magic Mountain,Valencia,CA,US,W,Wood,28.956,81,876.91,No,0,180,,2009,North America
+Tiger Express,Oakland Zoo,Oakland,CA,US,S,Steel,,,,No,0,,,1999,North America
+Tiger Mike,Boomers,Fountain Valley,CA,US,S,Steel,,,,No,0,,,2005,North America
+Timberline Twister,Knott's Berry Farm,Buena Park,CA,US,S,Steel,9.144,,146.304,No,0,55,,1983,North America
+Timber Twister,Gilroy Gardens Family Theme Park,Gilroy,CA,US,S,Steel,,,,No,0,,,2001,North America
+Tony Hawk's Big Spin,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,16.1544,50.22,411.785,No,0,111,,2008,North America
+Tree Top Racers,Adventure City,Anaheim,CA,US,S,Steel,10.668,,274.32,No,0,,,1999,North America
+V2: Vertical Velocity,Six Flags Discovery Kingdom,Vallejo,CA,US,S,Steel,45.72,105.3,192.024,No,0,,,2001,North America
+Viper,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,57.3024,113.4,1167.38,Yes,7,150,,1990,North America
+Vortex,California's Great America,Santa Clara,CA,US,S,Steel,27.7368,64.8,585.216,Yes,2,134,,1991,North America
+X2,Six Flags Magic Mountain,Valencia,CA,US,S,Steel,53.34,123.12,1100.33,Yes,2,,4,2002,North America
+Xcelerator,Knott's Berry Farm,Buena Park,CA,US,S,Steel,62.484,132.84,671.17,No,0,62,,2002,North America
+Coaster Thrill Ride,Puyallup Fair,Puyallup,WA,US,W,Wood,16.764,81,807.72,No,0,105,,1935,North America
+Dragon,Riverfront Park,Spokane,WA,US,S,Steel,,,,No,0,,,,North America
+Kersplash,Puyallup Fair,Puyallup,WA,US,S,Steel,,,,No,0,,,1995,North America
+Kiddie Coaster,Wild Waves Theme Park,Federal Way,WA,US,S,Steel,,,,No,0,,,1997,North America
+Klondike Gold Rusher,Wild Waves Theme Park,Federal Way,WA,US,S,Steel,12.192,,,No,0,,,2002,North America
+Mine Twister,Remlinger Farms,Carnation,WA,US,S,Steel,,,,No,0,,,1996,North America
+Monster Mouse,Puyallup Fair,Puyallup,WA,US,S,Steel,,,,No,0,,,,North America
+Rainbow Chaser,Fun Forest Amusement Park,Seattle,WA,US,S,Steel,,,,No,0,,,,North America
+Timberhawk: Ride of Prey,Wild Waves Theme Park,Federal Way,WA,US,W,Wood,22.86,81,792.48,No,0,,,2003,North America
+Wildcat,Puyallup Fair,Puyallup,WA,US,S,Steel,,,,No,0,,,1985,North America
+Wild Thing,Wild Waves Theme Park,Federal Way,WA,US,S,Steel,,,,Yes,3,60,,1997,North America
+Windstorm,Fun Forest Amusement Park,Seattle,WA,US,S,Steel,,,440.436,No,0,,,1993,North America
+Big Timber Log Ride,Enchanted Forest,Turner,OR,US,S,Steel,,,,No,0,,,1996,North America
+Ice Mountain Bobsled,Enchanted Forest,Turner,OR,US,S,Steel,,,487.68,No,0,150,,1983,North America
+Looping Thunder,Oaks Amusement Park,Portland,OR,US,S,Steel,10.9728,,364.846,Yes,1,,,1996,North America
+Zoooooom,Oaks Amusement Park,Portland,OR,US,S,Steel,,,,No,0,,,1999,North America
+Cornball Express,Indiana Beach,Monticello,IN,US,W,Wood,16.764,72.9,640.08,No,0,,,2001,North America
+Galaxi,Indiana Beach,Monticello,IN,US,S,Steel,,,,No,0,,,1971,North America
+Hoosier Hurricane,Indiana Beach,Monticello,IN,US,W,Wood,23.4696,82.62,881.177,No,0,,,1994,North America
+Howler,Holiday World,Santa Claus,IN,US,S,Steel,3.9624,,79.8576,No,0,,,1999,North America
+Kombo,Indianapolis Zoo,Indianapolis,IN,US,S,Steel,5.7912,30.78,76.8096,No,0,,,2001,North America
+Legend,Holiday World,Santa Claus,IN,US,W,Wood,30.1752,95.58,1232,No,0,120,,2000,North America
+Lost Coaster of Superstition Mountain,Indiana Beach,Monticello,IN,US,W,Wood,10.668,32.4,426.72,No,0,,,2002,North America
+Raven,Holiday World,Santa Claus,IN,US,W,Wood,24.384,77.76,853.44,No,0,90,,1995,North America
+Runaway Train,Paige's Crossing,Columbia City,IN,US,S,Steel,,,,No,0,,,2007,North America
+Sea Serpent,That Fun Place,Greenfield,IN,US,S,Steel,,,,No,0,,,2008,North America
+Steel Hawg,Indiana Beach,Monticello,IN,US,S,Steel,29.2608,66.42,,Yes,2,,,2008,North America
+Tig'rr Coaster,Indiana Beach,Monticello,IN,US,S,Steel,13.4112,50.22,537.972,No,0,,,1984,North America
+Voyage,Holiday World,Santa Claus,IN,US,W,Wood,49.6824,108.54,1963.52,No,0,165,,2006,North America
+Batman The Ride,Six Flags Over Texas,Arlington,TX,US,S,Steel,32.004,81,822.96,Yes,5,120,4,1999,North America
+Big Coaster,Wonderland Amusement Park,Amarillo,TX,US,S,Steel,,,,No,0,,,1975,North America
+Boardwalk Bullet,Kemah Boardwalk,Kemah,TX,US,W,Wood,29.2608,82.62,986.333,No,0,,,2007,North America
+Boomerang,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,35.3568,76.14,284.988,Yes,3,108,5.2,1999,North America
+Cobra,Oasis Lanes & Amusement Center,El Paso,TX,US,S,Steel,6.096,,,No,0,,,2004,North America
+Cyclone,Wonderland Amusement Park,Amarillo,TX,US,S,Steel,,,,No,0,,,1968,North America
+Dipsy Doodle,Joyland Amusement Park,Lubbock,TX,US,S,Steel,,,,No,0,,,,North America
+Dragon Wagon,Sandy Lake Amusement Park,Carrollton,TX,US,S,Steel,2.4384,,42.672,No,0,,,,North America
+Flashback,Six Flags Over Texas,Arlington,TX,US,S,Steel,35.3568,76.14,284.988,Yes,3,108,5.2,1989,North America
+Galaxi,Joyland Amusement Park,Lubbock,TX,US,S,Steel,,,,No,0,,,,North America
+Goliath,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,32.004,81,820.826,Yes,5,120,,2008,North America
+Great White,SeaWorld San Antonio,San Antonio,TX,US,S,Steel,32.9184,81,780.898,Yes,5,120,4.6,1997,North America
+Hornet,Wonderland Amusement Park,Amarillo,TX,US,S,Steel,8.2296,,349.91,No,0,,,2009,North America
+iT'Z Express,iT'Z Family Food & Fun,Houston,TX,US,S,Steel,,,,No,0,,,2007,North America
+Journey to Atlantis,SeaWorld San Antonio,San Antonio,TX,US,S,Steel,30.48,,,No,0,210,,2007,North America
+Judge Roy Scream,Six Flags Over Texas,Arlington,TX,US,W,Wood,21.6408,85.86,813.816,No,0,90,,1980,North America
+La Vibora,Six Flags Over Texas,Arlington,TX,US,S,Steel,18.288,51.84,454.152,No,0,90,,1987,North America
+Little Dipper,Sandy Lake Amusement Park,Carrollton,TX,US,S,Steel,3.6576,,85.344,No,0,,,1971,North America
+Mad Mouse,Joyland Amusement Park,Lubbock,TX,US,S,Steel,,,,No,0,,,1976,North America
+Mine Train,Six Flags Over Texas,Arlington,TX,US,S,Steel,10.668,,731.52,No,0,180,,1966,North America
+Mini Mine Train,Six Flags Over Texas,Arlington,TX,US,S,Steel,6.096,,277.368,No,0,70,,1969,North America
+Minor Mike,Zuma Fun Center,Houston,TX,US,S,Steel,,,,No,0,,,2004,North America
+Mr. Freeze,Six Flags Over Texas,Arlington,TX,US,S,Steel,66.4464,113.4,396.24,Yes,1,,,1998,North America
+Poltergeist,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,23.7744,97.2,824.484,Yes,4,75,4.5,1999,North America
+Rattler,Six Flags Fiesta Texas,San Antonio,TX,US,W,Wood,54.5592,105.3,1548.38,No,0,146,,1992,North America
+Road Runner Express,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,22.2504,,731.52,No,0,144,,1997,North America
+Romp Bomp A Stomp,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,,,84.7344,No,0,,,1992,North America
+Runaway Mountain,Six Flags Over Texas,Arlington,TX,US,S,Steel,19.812,64.8,457.2,No,0,,,1996,North America
+Shamu Express,SeaWorld San Antonio,San Antonio,TX,US,S,Steel,3.9624,22.68,69.7992,No,0,,,2004,North America
+Shockwave,Six Flags Over Texas,Arlington,TX,US,S,Steel,35.3568,97.2,1097.28,Yes,2,120,,1978,North America
+Steel Eel,SeaWorld San Antonio,San Antonio,TX,US,S,Steel,45.72,105.3,1127.76,No,0,100,3.5,1999,North America
+Superman Krypton Coaster,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,51.2064,113.4,1226.82,Yes,6,155,,2000,North America
+Texas Giant,Six Flags Over Texas,Arlington,TX,US,W,Wood,43.5864,100.44,1499.62,No,0,120,,1990,North America
+Texas Tornado,Wonderland Amusement Park,Amarillo,TX,US,S,Steel,24.384,,624.84,Yes,2,,,1985,North America
+Titan,Six Flags Over Texas,Arlington,TX,US,S,Steel,74.676,137.7,1619.1,No,0,210,,2001,North America
+Tony Hawk's Big Spin,Six Flags Fiesta Texas,San Antonio,TX,US,S,Steel,14.6304,50.22,411.785,No,0,,,2007,North America
+Tony Hawk's Big Spin,Six Flags Over Texas,Arlington,TX,US,S,Steel,16.1544,50.22,411.785,No,0,111,,2008,North America
+Wile E. Coyote's Grand Canyon Blaster,Six Flags Over Texas,Arlington,TX,US,S,Steel,4.8768,,,No,0,,,2001,North America
+American Eagle,Six Flags Great America,Gurnee,IL,US,W,Wood,38.7096,106.92,1417.32,No,0,143,,1981,North America
+Batman The Ride,Six Flags Great America,Gurnee,IL,US,S,Steel,30.48,81,822.96,Yes,5,120,,1992,North America
+Dark Knight,Six Flags Great America,Gurnee,IL,US,S,Steel,,,369.722,No,0,120,,2008,North America
+Demon,Six Flags Great America,Gurnee,IL,US,S,Steel,31.0896,81,649.224,Yes,4,105,,1976,North America
+Dragon Wagon,Grady's Family Fun Park,Bloomington,IL,US,S,Steel,,,,No,0,,,1993,North America
+Iron Wolf,Six Flags Great America,Gurnee,IL,US,S,Steel,30.48,89.1,883.92,Yes,2,120,,1990,North America
+Little Dipper,Kiddieland,Melrose Park,IL,US,W,Wood,8.5344,,213.36,No,0,50,,1950,North America
+Miner Mike,Haunted Trails,Burbank,IL,US,S,Steel,,,,No,0,,,,North America
+Python Pit,Go Bananas,Harwood Heights,IL,US,S,Steel,,24.3,,No,0,,,1997,North America
+Ragin' Cajun,Six Flags Great America,Gurnee,IL,US,S,Steel,12.8016,46.98,419.71,No,0,90,2.5,2004,North America
+Raging Bull,Six Flags Great America,Gurnee,IL,US,S,Steel,61.5696,118.26,1541.37,No,0,150,,1999,North America
+Rexo Coaster,Go Bananas,Harwood Heights,IL,US,S,Steel,,,,No,0,,,2000,North America
+Spacely's Sprocket Rockets,Six Flags Great America,Gurnee,IL,US,S,Steel,8.2296,34.02,206.959,No,0,44,,1998,North America
+Superman - Ultimate Flight,Six Flags Great America,Gurnee,IL,US,S,Steel,32.3088,82.62,852.83,Yes,2,180,,2003,North America
+Tiger Terror,Safari Land,Villa Park,IL,US,S,Steel,6.7056,,,No,0,45,,2002,North America
+Vertical Velocity,Six Flags Great America,Gurnee,IL,US,S,Steel,56.388,113.4,192.024,No,0,,,2001,North America
+Viper,Six Flags Great America,Gurnee,IL,US,W,Wood,30.48,81,1054,No,0,105,,1995,North America
+Whizzer,Six Flags Great America,Gurnee,IL,US,S,Steel,21.336,68.04,944.88,No,0,120,,1976,North America
+Adventure Express,Kings Island,Kings Mills,OH,US,S,Steel,19.2024,56.7,903.122,No,0,140,,1991,North America
+Backlot Stunt Coaster,Kings Island,Kings Mills,OH,US,S,Steel,13.716,64.8,597.408,No,0,64,,2005,North America
+Beast,Kings Island,Kings Mills,OH,US,W,Wood,33.528,103.68,2243.02,No,0,250,,1979,North America
+Blue Streak,Cedar Point,Sandusky,OH,US,W,Wood,23.7744,64.8,779.678,No,0,105,,1964,North America
+Cedar Creek Mine Ride,Cedar Point,Sandusky,OH,US,S,Steel,14.6304,68.04,774.192,No,0,162,,1969,North America
+Corkscrew,Cedar Point,Sandusky,OH,US,S,Steel,25.908,77.76,624.84,Yes,3,120,,1976,North America
+Diamondback,Kings Island,Kings Mills,OH,US,S,Steel,70.104,129.6,1609.95,No,0,180,,2009,North America
+Disaster Transport,Cedar Point,Sandusky,OH,US,S,Steel,19.2024,64.8,588.874,No,0,152,,1985,North America
+Fairly Odd Coaster,Kings Island,Kings Mills,OH,US,W,Wood,,,411.48,No,0,90,,1972,North America
+Firehawk,Kings Island,Kings Mills,OH,US,S,Steel,35.052,81,1018.03,Yes,5,130,4.3,2007,North America
+Flight Deck,Kings Island,Kings Mills,OH,US,S,Steel,23.7744,82.62,716.89,No,0,112,,1993,North America
+Flight of Fear,Kings Island,Kings Mills,OH,US,S,Steel,22.5552,87.48,824.484,Yes,4,60,4.5,1996,North America
+Gemini,Cedar Point,Sandusky,OH,US,S,Steel,38.1,97.2,1199.39,No,0,140,,1978,North America
+Invertigo,Kings Island,Kings Mills,OH,US,S,Steel,39.9288,81,308.762,Yes,3,90,5,1999,North America
+Iron Dragon,Cedar Point,Sandusky,OH,US,S,Steel,23.1648,64.8,853.44,No,0,120,,1987,North America
+Jr. Gemini,Cedar Point,Sandusky,OH,US,S,Steel,5.7912,9.72,135.026,No,0,50,,1979,North America
+Little Bill's Giggle Coaster,Kings Island,Kings Mills,OH,US,S,Steel,,,60.6552,No,0,52,,1992,North America
+Little Dipper,Memphis Kiddie Park,Cleveland,OH,US,S,Steel,,,,No,0,,,1952,North America
+Magnum XL-200,Cedar Point,Sandusky,OH,US,S,Steel,62.484,116.64,1556.31,No,0,120,,1989,North America
+Mantis,Cedar Point,Sandusky,OH,US,S,Steel,44.196,97.2,1188.72,Yes,4,160,,1996,North America
+Maverick,Cedar Point,Sandusky,OH,US,S,Steel,32.004,113.4,1356.36,Yes,2,150,,2007,North America
+Mean Streak,Cedar Point,Sandusky,OH,US,W,Wood,49.0728,105.3,1654.15,No,0,193,,1991,North America
+Millennium Force,Cedar Point,Sandusky,OH,US,S,Steel,94.488,150.66,2010.16,No,0,140,,2000,North America
+Mini Coaster,Tuscora Park,New Philadelphia,OH,US,S,Steel,,,,No,0,,,,North America
+Pepsi Python,Coney Island,Cincinnati,OH,US,S,Steel,12.192,,335.28,No,0,84,,1999,North America
+Racer,Kings Island,Kings Mills,OH,US,W,Wood,,98.82,1040.89,No,0,120,,1972,North America
+Raptor,Cedar Point,Sandusky,OH,US,S,Steel,41.7576,92.34,1155.19,Yes,6,136,,1994,North America
+Rugrats Runaway Reptar,Kings Island,Kings Mills,OH,US,S,Steel,14.6304,42.12,341.986,No,0,90,2.2,2001,North America
+Sea Dragon,Jungle Jack's Landing,Powell,OH,US,W,Wood,10.668,,402.336,No,0,90,,1956,North America
+Son Of Beast,Kings Island,Kings Mills,OH,US,W,Wood,66.4464,126.36,2143.35,Yes,1,140,4.5,2000,North America
+Teddy Bear,Stricker's Grove,Ross,OH,US,W,Wood,,,,No,0,63,,1996,North America
+Top Thrill Dragster,Cedar Point,Sandusky,OH,US,S,Steel,128.016,194.4,853.44,No,0,30,,2003,North America
+Tornado,Stricker's Grove,Ross,OH,US,W,Wood,,,,No,0,93,,1993,North America
+Vortex,Kings Island,Kings Mills,OH,US,S,Steel,45.1104,89.1,1158.24,Yes,6,150,,1987,North America
+Wicked Twister,Cedar Point,Sandusky,OH,US,S,Steel,65.532,116.64,,No,0,,,2002,North America
+Wildcat,Cedar Point,Sandusky,OH,US,S,Steel,15.24,64.8,559.918,No,0,85,,1979,North America
+Woodstock Express,Cedar Point,Sandusky,OH,US,S,Steel,12.8016,45.36,334.975,No,0,66,,1999,North America
+Boomerang,Elitch Gardens,Denver,CO,US,S,Steel,35.3568,76.14,284.988,Yes,3,108,5.2,1999,North America
+Cactus Coaster,Elitch Gardens,Denver,CO,US,S,Steel,3.6576,,,No,0,,,1995,North America
+Candy Cane Coaster,Santa's Workshop,Cascade,CO,US,S,Steel,,,,No,0,,,,North America
+Cyclone,Lakeside Amusement Park,Denver,CO,US,W,Wood,24.384,,853.44,No,0,120,,1940,North America
+Dragon,Lakeside Amusement Park,Denver,CO,US,S,Steel,,,85.344,No,0,,,1989,North America
+Dragon Roller Coaster,Fish 'n Farm at Heritage Square,Golden,CO,US,S,Steel,,,,No,0,,,2007,North America
+Flying Dragon Coaster,Mile High Flea Market,Henderson,CO,US,S,Steel,,,,No,0,,,2000,North America
+Half Pipe,Elitch Gardens,Denver,CO,US,S,Steel,29.8704,69.66,69.7992,No,0,120,4.5,2004,North America
+Kiddie Coaster,Lakeside Amusement Park,Denver,CO,US,S,Steel,,,,No,0,,,,North America
+Mind Eraser,Elitch Gardens,Denver,CO,US,S,Steel,33.2232,79.38,688.848,Yes,5,96,,1997,North America
+Miner Mike,Fish 'n Farm at Heritage Square,Golden,CO,US,S,Steel,,,,No,0,,,,North America
+Sidewinder,Elitch Gardens,Denver,CO,US,S,Steel,17.0688,72.9,193.548,Yes,1,66,4,1995,North America
+Twister II,Elitch Gardens,Denver,CO,US,W,Wood,30.48,89.1,1414.27,No,0,,3.1,1995,North America
+Wild Chipmunk,Lakeside Amusement Park,Denver,CO,US,S,Steel,12.4968,34.02,350.52,No,0,48,,1955,North America
+Batman the Ride,Six Flags Mexico,Mexico City,MX,MX,S,Steel,33.3,80,689,Yes,5,96,,2000,Latin America
+Boomerang,Six Flags Mexico,Mexico City,MX,MX,S,Steel,35.5,75.6,285,Yes,3,108,5.2,1982,Latin America
+Dark Knight,Six Flags Mexico,Mexico City,MX,MX,S,Steel,,,369.7,No,0,120,,2009,Latin America
+Medusa,Six Flags Mexico,Mexico City,MX,MX,W,Wood,32,88.5,955.8,No,0,,,2000,Latin America
+Roller Skater,Six Flags Mexico,Mexico City,MX,MX,S,Steel,8.5,34.9,207,No,0,44,,1993,Latin America
+Supermanel �ltimo Escape,Six Flags Mexico,Mexico City,MX,MX,S,Steel,67,120,1700,No,0,184,,2004,Latin America
+Tsunaumi,Six Flags Mexico,Mexico City,MX,MX,S,Steel,8,36,360,No,0,,,1981,Latin America
+Monta�a Infinitum,La Feria Chapultpec,Mexico City,MX,MX,S,Steel,33.8,85.3,1049.7,Yes,3,,4.7,2007,Latin America
+Monta�a Rusa,La Feria Chapultpec,Mexico City,MX,MX,W,Wood,33.5,,1219.2,No,0,,,1964,Latin America
+Rat�n Loco,La Feria Chapultpec,Mexico City,MX,MX,S,Steel,13,46.8,420,No,0,90,2.5,1999,Latin America
+Catarina,Selva M�gica,Guadalajara,MX,MX,S,Steel,8,36,360,No,0,,,2001,Latin America
+Titan Cascabel,Selva M�gica,Guadalajara,MX,MX,S,Steel,22.9,88.5,762,No,0,,,1994,Latin America
+Catari�os,Parque Plaza Sesamo,Monterrey,MX,MX,S,Steel,3.3,26,60.2,No,0,,,2006,Latin America
+Monta�a Rusa,Mundo Divertido,Mexicali,MX,MX,S,Steel,11,,365,Yes,1,,,2002,Latin America
+Monta�a Rusa,Mundo Divertido,Tijuana,MX,MX,S,Steel,11,,365,Yes,1,,,2002,Latin America
+Tornado,Bosque M�gico,Guadalupe,MX,MX,S,Steel,19.5,60,350,Yes,2,,,2001,Latin America
+Tsunaumi,Isla San Marcos Parque Tem�tico,Aguascalientes,MX,MX,S,Steel,35.1,86.9,1120.1,Yes,4,,,2008,Latin America
+Bocaraca,Parque de Diversiones Dr Roberto Ortiz Brenes,"San Jos�, CR",CR,CR,S,Steel,19.5,60,350,Yes,2,,,2005,Latin America
+Teletren,Parque de Diversiones Dr Roberto Ortiz Brenes,"San Jos�, CR",CR,CR,S,Steel,4,,80,No,0,,,2002,Latin America
+B�meran,Parque Diversiones,"San Jos�, CR",CR,CR,S,Steel,35.5,75.6,285,Yes,3,96,5.2,2012,Latin America
+Montana Ghibli,Parque Diversiones,"San Jos�, CR",CR,CR,S,Steel,3.4,,,No,0,,,1984,Latin America
+Teletren,Parque Diversiones,"San Jos�, CR",CR,CR,S,Steel,4,,80,No,0,,,2002,Latin America
+Avalancha,Xetulul,"Retalhuleu, Guatamala",GT,GT,S,Steel,,88,,Yes,8,,,,Latin America
+Choconoy,Xetulul,"Retalhuleu, Guatamala",GT,GT,S,Steel,8,36,360,No,0,,,2002,Latin America
+Moto Bala,Mundo Petapa,"Guatamala City,",GT,GT,S,Steel,13,65,364,No,0,,,2010,Latin America
+Bambo Coaster,Salitre M�gico,Bogot�,CO,CO,S,Steel,18,90.1,860.1,Yes,2,,,2004,Latin America
+Corkscrew,Salitre M�gico,Bogot�,CO,CO,S,Steel,21.3,,381,Yes,2,70,,2000,Latin America
+Tornado,Salitre M�gico,Bogot�,CO,CO,S,Steel,,,872.3,No,0,,,2010,Latin America
+Broco,Parque Nacional del Caf�,Montenegro,CO,CO,S,Steel,17.3,66.2,787.3,No,0,151,2.1,1999,Latin America
+Monta�a Rusa,Mundo Aventura,Bogot�,CO,CO,S,Steel,15,,330,No,0,,,,Latin America
+Vertigo,Dunas,Valencia,VE,VE,S,Steel,10.1,,200,Yes,1,60,,2007,Latin America
+Katapul,Hopi Hari,S�o Paulo,BR,BR,S,Steel,42,85.3,220.1,Yes,1,,,1999,Latin America
+Boomerang,Playcenter S�o Paulo,S�o Paulo,BR,BR,S,Steel,35.5,75.6,285,Yes,3,108,,1997,Latin America
+Looping Star,Playcenter S�o Paulo,S�o Paulo,BR,BR,S,Steel,24.5,77,592,Yes,1,,,,Latin America
+Looping Star,Mirobillandia,"Olinda, PB",BR,BR,S,Steel,11,,365,Yes,1,,,,Latin America
+Super Tornado,Mirobillandia,"Olinda, PB",BR,BR,S,Steel,19.5,60,350,Yes,2,,,2008,Latin America
+Roller Coaster,Nocolandia Center Park,Brasilia,BR,BR,S,Steel,11,45,325,No,0,55,,2006,Latin America
+Firewhip,Beto Carrero World,"Penha, SC",BR,BR,S,Steel,33.3,80,689,Yes,5,96,,2008,Latin America
+Star World Mountain,Beto Carrero World,"Penha, SC",BR,BR,S,Steel,22.9,64.4,731.5,Yes,2,,,,Latin America
+Looping,Sol park,"Aparecida, SP",BR,BR,S,Steel,11,,365,Yes,1,,,,Latin America
+O Mundo de Xuxa,O Mundo de Xuxa Theme park,S�o Paulo,BR,BR,S,Steel,9.5,40,320,No,0,,,1997,Latin America
+Montezum,Hopi hari,S�o Paulo,BR,BR,W,Wood,42.4,103,1030.2,No,0,,,1999,Latin America
+Batman,Beto Carrero World,"Penha, SC",BR,BR,S,Steel,61,104.6,346.6,Yes,1,0.3,5,2013,Latin America
+Robin,Beto Carrero World,"Penha, SC",BR,BR,S,Steel,61,104.6,374.6,Yes,2,0.5,5,2014,Latin America
+Unknown,Hopi Hari,S�o Paulo,BR,BR,S,Steel,33,85,875,Yes,10,,,2013,Latin America
+Twisted Coaster,HotZone,Rio de Janeiro,BR,BR,S,Steel,8,28,175,Yes,0,,,2012,Latin America
+Sky Mountain,Mirobillandia,"Olinda, PB",BR,BR,S,Steel,58.4,105.6,367,Yes,3,92,4.5,,Latin America
+Colossu's Loop,Nicolandia Center Park,"Brasilia, BFD",BR,BR,S,Steel,12.4,,,Yes,1,,,,Latin America
+Roller Coaster,Nicolandia Center Park,"Brasilia, BFD",BR,BR,S,Steel,11,45,325,No,0,55,,2002,Latin America
+O Munda da Xuxa,O Munda da Xuxa,S�o Paulo,BR,BR,S,Steel,9.5,40,320,No,0,,,,Latin America
+Aconcagua,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,36.2,93.2,751,No,0,,,1982,Latin America
+Alpen Blitz,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,5,72,210,No,0,,,1984,Latin America
+JetStar,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,13.5,50,538,No,0,,,1982,Latin America
+Monta�a Rusa Infantil,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,3,30,190,No,0,,,1983,Latin America
+Vertigorama,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,38,91,1816,No,0,,,1983,Latin America
+Wild Cat,Parque de la Ciudad,"Buenos Aires, BA",AR,AR,S,Steel,13.5,,460,No,0,,,1982,Latin America
+Tigre,Parque de la Costa,"Buenos Aires, BA",AR,AR,S,Steel,35.5,75.6,285,Yes,3,128,5.2,1998,Latin America
+Desafio,Parque de la Costa,"Buenos Aires, BA",AR,AR,S,Steel,33.3,80,689,Yes,5,96,,1999,Latin America
+Torbellino,Parque de la Costa,"Buenos Aires, BA",AR,AR,S,Steel,,,340,No,0,,,2010,Latin America
+Vigia,Parque de la Costa,"Buenos Aires, BA",AR,AR,S,Steel,8,36,360,No,0,,,1998,Latin America
+Boomerang,Fantasilandia,"Santiago, Santiago",CL,CL,S,Steel,35.5,75.6,285,Yes,3,108,5.2,1998,Latin America
+Raptor,Fantasilandia,"Santiago, Santiago",CL,CL,S,Steel,33.3,80,689,Yes,5,96,,2008,Latin America
+Wild Mouse,Fantasilandia,"Santiago, Santiago",CL,CL,S,Steel,13,46.8,420,No,0,90,2.5,2006,Latin America
+Dark Ride,Mundo Aventura,Bogot�,CO,CO,S,Steel,15,,330,No,0,,,2012,Latin America
+Chiquita Monta�a Rusa,VulQano Park,Quito,EQ,EQ,S,Steel,4,,80,No,0,,,2005,Latin America
+Monta�a Rusa,VulQano Park,Quito,EQ,EQ,S,Steel,11,,365,Yes,1,,,2005,Latin America
+Jet Star,Aventura Park,Lima,PE,PE,S,Steel,13.5,50,538,No,0,,,,Latin America
+Monta�a Rat�n,Graje Villa,Lima,PE,PE,S,Steel,3.6,22.7,60,No,0,,,2002,Latin America
+Unknown,Parque Italo-Americano,"Caracas, DF",CO,CO,S,Steel,10,,,No,0,,,2011,Latin America
+,Festyland,"Bretteville-Sur-Odon, Normandy",F,F,S,Steel,,65,400,No,0,60,,2005,Europe
+Alpine Bobs,Holly Park,"�chemir�, Pays de la Loire",F,F,S,Steel,13.5,50,538,No,0,,,2003,Europe
+Anaconda,Walygator Parc,"Maizi�res-les-Metz, Lorraine",F,F,W,Wood,36,,1200,No,0,130,,1989,Europe
+Azteka,Le Pal,"Dompierre Sur Besbre, Centre",F,F,S,Steel,17,55,500,No,0,,,2003,Europe
+Balancier des Fortiches,Futuroscope - Le Parc,"Poitiers, Poitou-Charentes",F,F,S,Steel,6.1,,,No,0,,,2006,Europe
+Big Thunder Mountain,Disneyland Resort Paris - Disneyland Park,"Marne la Vall�e, Ile-de-France",F,F,S,Steel,22,65,1500,No,0,236,,1992,Europe
+Boomerang,Walibi Aquitaine,"Roquefort, Aquitaine",F,F,S,Steel,35.5,75.6,285,Yes,3,128,5.2,1992,Europe
+Boomerang,Walibi Rh�ne-Alpes,"Les Aveni�res, Rh�ne-Alpes",F,F,S,Steel,35.5,76,285,Yes,3,128,5.2,1992,Europe
+Coccinelle,Walibi Aquitaine,"Roquefort, Aquitaine",F,F,S,Steel,8,36,360,No,0,,,1992,Europe
+Coccinelle des Andes,Walibi Rh�ne-Alpes,"Les Aveni�res, Rh�ne-Alpes",F,F,S,Steel,8,36,360,No,0,,,1992,Europe
+Corsaire,Cobac Parc,"Lanh�lin, Brittany",F,F,S,Steel,10,40,300,No,0,,,2007,Europe
+D�val'Train,Parc Touristique des Combes,"Creusot, Burgundy",F,F,S,Steel,8.5,35,207,No,0,44,,2003,Europe
+Dragon,Jardin d'Acclimatation,"Paris, Ile-de-France",F,F,S,Steel,5,,200,No,0,75,,1987,Europe
+EuroLoop,Europark,"Vias, Languedoc-Roussillon",F,F,S,Steel,30,65,,Yes,4,,,2004,Europe
+Eurospeed,Europark,"Vias, Languedoc-Roussillon",F,F,S,Steel,,60,650,No,0,,,2009,Europe
+Family Coaster,Parc Saint Paul,"Saint Paul, Picardie",F,F,S,Steel,4.5,,,No,0,,,2005,Europe
+Formule 1,Parc Saint Paul,"Saint Paul, Picardie",F,F,S,Steel,15,,380,No,0,,,2005,Europe
+Goudurix,Parc Ast�rix,"Plailly, Picardie",F,F,S,Steel,36,90,950,Yes,7,80,,1989,Europe
+Grand 8 TGV,Florida Parc,"Brochon, Burgundy",F,F,S,Steel,,,200,No,0,,,2006,Europe
+Grand Huit,La R�cr� des 3 Cur�s,"Milizac, Brittany",F,F,S,Steel,10,,,No,0,,,2001,Europe
+Indiana Jones et le Temple du P�ril,Disneyland Resort Paris - Disneyland Park,"Marne la Vall�e, Ile-de-France",F,F,S,Steel,,,600,Yes,1,75,,1993,Europe
+Mini Mouse Cartoon,Parc Saint Paul,"Saint Paul, Picardie",F,F,S,Steel,3,,85.3,No,0,86,,2004,Europe
+P�rif�rix,Parc Ast�rix,"Plailly, Picardie",F,F,S,Steel,6,32,199,No,0,90,,1990,Europe
+Pile Ou Face,France Miniature,"�lancourt, Ile-de-France",F,F,S,Steel,6,,,No,0,,,2004,Europe
+Ragondingue,Bagatelle,"Merlimont, Nord-Pas de Calais",F,F,S,Steel,13,47,420,No,0,90,2.5,2006,Europe
+Rock 'n' Roller Coaster,Disneyland Resort Paris - Walt Disney Studios Park,"Marne la Vall�e, Ile-de-France",F,F,S,Steel,24.4,92,1037.2,Yes,3,70,5,2002,Europe
+Roller Coaster,Pap�a Parc,"Yvr�-l'Ev�que, Pays de la Loire",F,F,S,Steel,8,36,360,No,0,,,2009,Europe
+Ronde des Rondins,Parc Ast�rix,"Plailly, Picardie",F,F,S,Steel,3.3,26,60.2,No,0,48,,1991,Europe
+Schlitt'Express,Nigloland,"Dolancourt, Champagne-Ardenne",F,F,S,Steel,14,45,370,No,0,,,2007,Europe
+Serpent Hopi,OK Corral,"Cuges-les-Pins, Provence-Alpes-Cote d'Azur",F,F,S,Steel,8,36,360,No,0,,,,Europe
+Sombrero,Jacquou Parc,"Le Bugue, Aquitaine",F,F,S,Steel,,,100,No,0,,,2008,Europe
+Space Mountain: Mission 2,Disneyland Resort Paris - Disneyland Park,"Marne la Vall�e, Ile-de-France",F,F,S,Steel,32,71,1000,Yes,3,125,,1995,Europe
+Spatiale Exp�rience,Nigloland,"Dolancourt, Champagne-Ardenne",F,F,S,Steel,20,60,800,No,0,135,4.5,2000,Europe
+Speedy Gonzales,Parc du Bocasse,"Bocasse, Normandy",F,F,S,Steel,6,34,135,No,0,,,2006,Europe
+Tacot Express,Jardin d'Acclimatation,"Paris, Ile-de-France",F,F,S,Steel,,40,,No,0,60,,2001,Europe
+Tigre de Sib�rie,Le Pal,"Dompierre Sur Besbre, Centre",F,F,S,Steel,13,40,360,No,0,,,1990,Europe
+Tonnerre de Zeus,Parc Ast�rix,"Plailly, Picardie",F,F,W,Wood,30,84,1232.6,No,0,125,,1997,Europe
+Trace Du Hourra,Parc Ast�rix,"Plailly, Picardie",F,F,S,Steel,,60,900,No,0,,,2001,Europe
+Train de la Mine,La Coccinelle,"Gujan-Mestras, Aquitaine",F,F,S,Steel,10,40,300,No,0,60,,2009,Europe
+Une Souris Verte,Parc Saint Paul,"Saint Paul, Picardie",F,F,S,Steel,13,47,420,No,0,90,2.5,2007,Europe
+Vol D'Icare,Parc Ast�rix,"Plailly, Picardie",F,F,S,Steel,10.7,42,410,No,0,75,,1994,Europe
+Waly Coaster,Walygator Parc,"Maizi�res-les-Metz, Lorraine",F,F,S,Steel,,,,Yes,3,75,,1989,Europe
+Wilde Maus,Europark,"Vias, Languedoc-Roussillon",F,F,S,Steel,15,45,370,No,0,70,,2007,Europe
+Wild Train,Parc Saint Paul,"Saint Paul, Picardie",F,F,S,Steel,15,,320,No,0,,,2000,Europe
+Achterbahn,Rasti-Land,"Salzhemmendorf, Lower Saxony",D,D,S,Steel,8.5,35,207,No,0,44,,1989,Europe
+Achterbahn,Nordsee Spielstadt Wangerland,"Hohenkirchen, Lower Saxony",D,D,S,Steel,4,,80,No,0,,,2006,Europe
+Alpenexpress,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,6,45,264,No,0,,,1984,Europe
+Atlantica SuperSplash,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,30,80,390,No,0,200,,2005,Europe
+Backyardigans: Mission to Mars,Movie Park Germany,"Bottrop, North Rhine-Westphalia",D,D,S,Steel,8.5,35,207,No,0,44,,1996,Europe
+Bandit,Movie Park Germany,"Bottrop, North Rhine-Westphalia",D,D,W,Wood,27.8,80,1099,No,0,90,,1999,Europe
+Big Loop,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,30,63,706,Yes,4,,,1983,Europe
+Black Mamba,Phantasialand,"Br�hl, North Rhine-Westphalia",D,D,S,Steel,26,80,,Yes,4,,4,2006,Europe
+blue fire Megacoaster,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,38,100,1056,Yes,4,150,3.8,2009,Europe
+Boomerang,Freizeit-Land Geiselwind,"Geiselwind, Bavaria",D,D,S,Steel,35.5,75.6,285,Yes,3,168,5.2,2000,Europe
+Bumerang,Freizeitzentrum SchiederSee,"Schieder, North Rhine-Westphalia",D,D,S,Steel,6.1,,,No,0,,,1991,Europe
+Bumerang,Familienpark Funny-World,"Kappel, Baden Wuerttemberg",D,D,S,Steel,6.1,,,No,0,,,2003,Europe
+Butterfly,Freizeitpark Lochm�hle,"Wehrheim, Hesse",D,D,S,Steel,6.1,,,No,0,,,1998,Europe
+Butterfly,Erlebniswelt Seilbahnen Thale,"Thale, Saxony-Anhalt",D,D,S,Steel,6.1,,,No,0,,,2000,Europe
+Butterfly,M�rchenwald Saalburg,"Saalburg, Thuringia",D,D,S,Steel,6.1,,,No,0,,,1995,Europe
+Butterfly,R�gen Park,"Gingst, Mecklenburg-Western Pomerania",D,D,S,Steel,6.1,,,No,0,,,2000,Europe
+Butterfly,Wildpark Schwarze Berge,"Rosengarten, Lower Saxony",D,D,S,Steel,6.1,,,No,0,,,1988,Europe
+Butterfly,Skyline Park,"Bad W�rishofen, Bavaria",D,D,S,Steel,6.1,,,No,0,,,1996,Europe
+Butterfly,Affen- und Vogelpark,"Reichshof Eckenhagen, North Rhine-Westphalia",D,D,S,Steel,6.1,,,No,0,,,1991,Europe
+Colorado Adventure,Phantasialand,"Br�hl, North Rhine-Westphalia",D,D,S,Steel,26,50,1280,No,0,175,,1996,Europe
+Colossos,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,W,Wood,60,120,1344,No,0,175,,2001,Europe
+Crazy Mine,Hansa Park,"Sierksdorf, Schleswig-Holstein",D,D,S,Steel,15,45,370,No,0,70,,1997,Europe
+Desert Race,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,19,100,650,No,0,49,,2007,Europe
+Devil's Mine,Fort Fun Abenteuerland,"Wasserfall, North Rhine-Westphalia",D,D,S,Steel,19.5,,410,No,0,75,,1996,Europe
+Die! Wilde Maus,Serengeti Park,"Hodenhagen, Lower Saxony",D,D,S,Steel,4.9,22.5,164.9,No,0,,,2007,Europe
+Drachen-Achterbahn,Tier- und Freizeitpark Th�le,"Friesoythe-Th�le, Lower Saxony",D,D,S,Steel,9,39,222,No,0,,,1998,Europe
+Drachenjagd,Legoland Deutschland,"G�nzburg, Bavaria",D,D,S,Steel,5.5,33,150,No,0,,,2003,Europe
+Eichh�rnchenbahn,Freizeitpark Lochm�hle,"Wehrheim, Hesse",D,D,S,Steel,4.5,30,128,No,0,,,1992,Europe
+El Toro,Freizeitpark Plohn,"Lengenfeld, Saxony",D,D,W,Wood,24.5,73.4,725.1,No,0,,,2009,Europe
+Euro Mir,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,28,80,980,No,0,273,4,1997,Europe
+Eurosat,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,25.5,60,900,No,0,198,4,1989,Europe
+Expedition GeForce,Holiday Park,"Hassloch, Rhineland-Palatinate",D,D,S,Steel,53,120,1220,No,0,75,4.5,2001,Europe
+Familienachterbahn,Erse-Park,"Uetze, Lower Saxony",D,D,S,Steel,4.5,30,128,No,0,,,1992,Europe
+Familienachterbahn,Schlo� Beck Freizeitpark,"Bottrop, North Rhine-Westphalia",D,D,S,Steel,6,32,199,No,0,,,1987,Europe
+Familienachterbahn,Magic Park Verden,"Verden, Lower Saxony",D,D,S,Steel,8,36,360,No,0,,,2003,Europe
+Familien-Achterbahn,Eifelpark,"Gondorf, Rhineland-Palatinate",D,D,S,Steel,4.5,30,128,No,0,,,1995,Europe
+Familien-Achterbahn,Tolk Schau,"Tolk, Schleswig-Holstein",D,D,S,Steel,4.5,30,128,No,0,,,,Europe
+Familienachterbahn-Drachenbahn,Schlo� Thurn,"Heroldsbach, Bavaria",D,D,S,Steel,9,39,222,No,0,,,1998,Europe
+Feuerdrache,Legoland Deutschland,"G�nzburg, Bavaria",D,D,S,Steel,16,60,860,No,0,,,2002,Europe
+Flotte Biene,Trampolino Familien- und Freizeitpark,"Andernach, Rhineland-Palatinate",D,D,S,Steel,,42,200,No,0,,,2008,Europe
+Fluch von Novgorod,Hansa Park,"Sierksdorf, Schleswig-Holstein",D,D,S,Steel,40,100,,Yes,1,,,2009,Europe
+Froschbahn,Bayern Park,"Reisbach, Bavaria",D,D,S,Steel,3.3,26,60.2,No,0,,,1995,Europe
+Froschflitzer,Serengeti Park,"Hodenhagen, Lower Saxony",D,D,S,Steel,8,36,360,No,0,,,1999,Europe
+Ghost Chasers,Movie Park Germany,"Bottrop, North Rhine-Westphalia",D,D,S,Steel,14,45,370,No,0,110,,2000,Europe
+Goldminen Express,Familienpark Funny-World,"Kappel, Baden Wuerttemberg",D,D,S,Steel,6.1,,,No,0,,,2005,Europe
+Grazy Worm,Schwaben Park,"Kaisersbach, Baden Wuerttemberg",D,D,S,Steel,4,24,70,No,0,,,2003,Europe
+Grottenblitz,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,6,45,370,No,0,,,1985,Europe
+G'sengte Sau,Erlebnispark Tripsdrill,"Cleebronn, Baden Wuerttemberg",D,D,S,Steel,16,,480,No,0,,3,1998,Europe
+Hei�e Fahrt,Wild- und Freizeitpark Klotten/Cochem,"Klotten, Rhineland-Palatinate",D,D,S,Steel,17.5,55,532,No,0,80,,2004,Europe
+Himalayabahn,Schwaben Park,"Kaisersbach, Baden Wuerttemberg",D,D,S,Steel,13.5,,460,No,0,,,1989,Europe
+Holzwurmachterbahn,Jaderpark,"Jaderberg, Lower Saxony",D,D,S,Steel,6,32,199,No,0,,,1996,Europe
+Indy-Blitz,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,4.5,30,128,No,0,,,2008,Europe
+Jimmy Neutron's Atomic Flyer,Movie Park Germany,"Bottrop, North Rhine-Westphalia",D,D,S,Steel,13,,294,No,0,,,2007,Europe
+Limit,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,33.3,80,689,Yes,5,96,,1999,Europe
+Mammut,Erlebnispark Tripsdrill,"Cleebronn, Baden Wuerttemberg",D,D,W,Wood,30,90,860,No,0,,,2008,Europe
+Marienk�ferbahn,Zoo Safari- und Hollywoodpark Stukenbrock,"Stukenbrock, North Rhine-Westphalia",D,D,S,Steel,8,36,360,No,0,,,1979,Europe
+Marienk�ferbahn,Fort Fun Abenteuerland,"Wasserfall, North Rhine-Westphalia",D,D,S,Steel,8,36,360,No,0,65,,1986,Europe
+Marienk�fer Hochbahn,Churpfalzpark,"Loifling, Bavaria",D,D,S,Steel,3.3,26,60.2,No,0,,,1983,Europe
+Matterhorn Blitz,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,16,56.3,383,No,0,185,,1999,Europe
+MP-Xpress,Movie Park Germany,"Bottrop, North Rhine-Westphalia",D,D,S,Steel,33.3,80,689,Yes,5,96,,2001,Europe
+Nessie Superrollercoaster,Hansa Park,"Sierksdorf, Schleswig-Holstein",D,D,S,Steel,26,79,741,Yes,1,130,,1979,Europe
+Oachkatzl,M�rchenwald im Isartal,"Wolfratshausen, Bavaria",D,D,S,Steel,10.5,46,290,No,0,,2.5,1999,Europe
+Pegasus,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,15,65,400,No,0,70,,2006,Europe
+Poseidon,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,23,70,836,No,0,240,3,2000,Europe
+Potts Blitz,Potts Park,"Minden, North Rhine-Westphalia",D,D,S,Steel,9,39,222,No,0,,,1993,Europe
+Project X - Test Strecke,Legoland Deutschland,"G�nzburg, Bavaria",D,D,S,Steel,15.8,56,400,No,0,,,2002,Europe
+Rasender Roland,Hansa Park,"Sierksdorf, Schleswig-Holstein",D,D,S,Steel,16,50,522,No,0,70,,1993,Europe
+Rasender Tausendf��ler,Erlebnispark Tripsdrill,"Cleebronn, Baden Wuerttemberg",D,D,S,Steel,8,36,360,No,0,,,1986,Europe
+Schmetterling,L�tge Land,"Altfunnixsiel, Lower Saxony",D,D,S,Steel,6.1,,,No,0,,,1991,Europe
+Schmetterlings-Pendelbahn,Churpfalzpark,"Loifling, Bavaria",D,D,S,Steel,6.1,,,No,0,,,1989,Europe
+Schweizer Bobbahn,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,19,50,487,No,0,105,3,1985,Europe
+Schweizer Bobbahn,Heide-Park Soltau,"Soltau, Lower Saxony",D,D,S,Steel,27,53,990,No,0,100,,1994,Europe
+Silver Star,Europa Park,"Rust, Baden Wuerttemberg",D,D,S,Steel,73,127,1620,No,0,240,4,2002,Europe
+Sky Wheel,Skyline Park,"Bad W�rishofen, Bavaria",D,D,S,Steel,46,105,150,Yes,2,50,5,2004,Europe
+Speedy,CentrO.Park,"Oberhausen, North Rhine-Westphalia",D,D,S,Steel,11.1,36,300,No,0,60,,2001,Europe
+Super Tornado,Zoo Safari- und Hollywoodpark Stukenbrock,"Stukenbrock, North Rhine-Westphalia",D,D,S,Steel,19.5,60,350,Yes,2,,,1981,Europe
+Super Wirbel,Holiday Park,"Hassloch, Rhineland-Palatinate",D,D,S,Steel,22.9,64.4,731.5,Yes,2,85,,1979,Europe
+Taunusblitz,Taunus Wunderland,"Schlangenbad, Hesse",D,D,S,Steel,14,45,370,No,0,110,,1999,Europe
+Temple of the Night Hawk,Phantasialand,"Br�hl, North Rhine-Westphalia",D,D,S,Steel,,,1280,No,0,240,,1988,Europe
+Wilde Mini Maus,Lollihop,"Munich, Bavaria",D,D,S,Steel,3.5,25,60,No,0,,,2007,Europe
+Winjas,Phantasialand,"Br�hl, North Rhine-Westphalia",D,D,S,Steel,17.4,66,465,No,0,,,2002,Europe
+Wirbelwind,Fort Fun Abenteuerland,"Wasserfall, North Rhine-Westphalia",D,D,S,Steel,19.5,60,350,Yes,2,60,,1982,Europe
